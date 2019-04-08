@@ -13,7 +13,7 @@ Passionate and dedicated aspiring software developer with superior cognitive abi
 ## COMPUTER AND SOFTWARE SKILLS
 
 - Web Design and Development (HTML5, CSS3, JavaScript ES6+, PHP, MYSQL, WordPress)
-- Programming (Python, JavaScript ES6+, Git & Github)
+- Programming (Python, JavaScript ES6+, Git & Github, Test Driven Development)
 - Microsoft Office Suite (Word, Excel, PowerPoint, Access, Outlook)
 - Graphic Design (Adobe Photoshop)
 - Various other specialized software packages
@@ -71,9 +71,9 @@ Passionate and dedicated aspiring software developer with superior cognitive abi
 
 ## CERTIFICATION COURSES
 
-- HSE Level 2 & Level 3 Competency Certificate  
+- **HSE Level 2 & Level 3 Competency Certificate**
   Joint Professionals Training & Support Int’l Ltd. (DPR Accredited)
-- Project Management (PMP/CAPM) Training Certificate  
+- **Project Management (PMP/CAPM) Training Certificate**
   PMTutors Ltd (Accredited PMI Registered Educational Provider)
 
 ## PROFESSIONAL AFFILIATIONS
