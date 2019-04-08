@@ -1,7 +1,6 @@
 # KINGSLEY OKEKE
 
-Address: No. 12, Ishola Solomon Street, Magodo G.R.A. Phase 2, Lagos, Nigeria.
-
+Address: No. 12, Ishola Solomon Street, Magodo G.R.A. Phase 2, Lagos, Nigeria.  
 Phone: +234 810 215 9211. Email: mr.kingsley.okeke@gmail.com
 
 <hr>
@@ -71,10 +70,10 @@ Passionate and dedicated aspiring software developer with superior cognitive abi
 
 ## CERTIFICATION COURSES
 
-- **HSE Level 2 & Level 3 Competency Certificate**
-  Joint Professionals Training & Support Int’l Ltd. (DPR Accredited)
-- **Project Management (PMP/CAPM) Training Certificate**
-  PMTutors Ltd (Accredited PMI Registered Educational Provider)
+- **HSE Level 2 & Level 3 Competency Certificate**  
+Joint Professionals Training & Support Int’l Ltd. (DPR Accredited)
+- **Project Management (PMP/CAPM) Training Certificate**  
+PMTutors Ltd (Accredited PMI Registered Educational Provider)
 
 ## PROFESSIONAL AFFILIATIONS
 
